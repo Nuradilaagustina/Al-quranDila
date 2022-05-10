@@ -6,22 +6,21 @@
         <h3 class="find">You can find me on </h3>
         </div>
         <div class="row">
-          <div class="col-lg-1">
+          <div class="col-lg-3">
             <div class="team-member">
-              <a class="btn btn-social  mx-2" style="background-image: url('src/assets/fb1.png');" href="https://www.facebook.com/dila.nuradila.5"></a>
+              <a class="btn btn-primary btn-lg text-white fw-bold" href="https://www.facebook.com/dila.nuradila.5">Facebook</a>
 
             </div>
           </div>
-          <div class="col-lg-1">
+          <div class="col-lg-3">
             <div class="team-member">
-              <a class="btn btn-social mx-2" style="background-image: url('src/assets/gitt.jpg');" href="https://github.com/Nuradilaagustina"></a>
+              <a class="btn btn-dark btn-lg text-white fw-bold" href="https://github.com/Nuradilaagustina">Github</a>
 
             </div>
           </div>
-          <div class="col-lg-1">
+          <div class="col-lg-3">
             <div class="team-member">
-                <a class="btn btn-social mx-2" style="background-image: url('src/assets/ige.png');" href="https://www.instagram.com/nuradilaagtna/?hl=id="></a>
-
+              <a class="btn btn-danger btn-lg text-white fw-bold" href="https://www.instagram.com/nuradilaagtna/?hl=id=">Intagram</a>
             </div>
           </div>
         </div>
@@ -42,7 +41,7 @@ onMounted(() => {
 
 <style scoped>
 .team-member {
-  margin-left: 32rem;
+  margin-left: 16rem;
 
 }
 .team-member img {
